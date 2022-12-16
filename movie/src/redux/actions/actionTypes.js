@@ -1,0 +1,7 @@
+export const ADD_MOVIES = "ADD_MOVIES";
+export const ADD_MOVIES_TO_LIST = "ADD_MOVIES_TO_LIST";
+export const REMOVE_MOVIE_FROM_LIST = "REMOVE_MOVIE_FROM_LIST";
+ export const SET_SAVE = "SET_SAVE";
+ export const ADD_POST_MOVIES = "ADD_POST_MOVIES";
+export const SET_LINKACTIVE = "SET_LINKACTIVE";
+
